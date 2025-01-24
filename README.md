@@ -2,8 +2,8 @@
 - This is a password generator that can provides users with strong customizable passwords to store them in password bank for later usage.
 
 Contributors
-- Adan Santos
 - John Leura
+- Adan Santos
 - Kaiden Taylor
 - Jontell Russ
 
